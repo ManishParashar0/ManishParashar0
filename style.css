@@ -1,0 +1,120 @@
+* {
+    font-family: "Poppins", sans-serif;
+    color: #5d6d7e;
+}
+
+.topskills {
+    font-size: 1.1rem;
+}
+
+body {
+    text-align: center;
+    background-color:rgba(60, 177, 236, 0.083) ;
+     /* background-image: url('https://r4.wallpaperflare.com/wallpaper/644/305/118/pattern-black-gradient-texture-wallpaper-1be65c2d03e1bf994574abb9dd4c6c70.jpg'); */
+}
+
+#container {
+
+    width: 60%;
+    margin: 100px auto;
+    border-radius: 15px;
+    box-shadow: rgba(60, 177, 236, 0.25) 0px 54px 55px,
+        rgba(60, 177, 236, 0.25) 0px -12px 30px, rgba(72, 210, 30, 0.12) 0px 4px 6px,
+        rgba(218, 131, 18, 0.17) 0px 12px 13px, rgba(205, 170, 11, 0.09) 0px -3px 5px;
+    background-color:rgba(60, 177, 236, 0.083) ;
+    padding-bottom: 5%;
+}
+
+#cards {
+    margin: auto;
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+#cards>div:hover {
+    background-color: rgba(60, 177, 236, 0.25);
+}
+
+#cards>div {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 10px;
+    margin: 20px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+}
+
+#cards>div a {
+    text-decoration: none;
+}
+
+#discription {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+    font-size: 1.2rem;
+}
+
+#top>img {
+    width: 15%;
+    border-radius: 50%;
+    margin-top: 5%;
+}
+
+#social {
+    width: 15%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    margin-bottom: 50px;
+}
+
+.social-handles:hover {
+    background-color:rgba(60, 177, 236, 0.083) ;
+    box-shadow: rgba(240, 133, 46, 0.4) 0px 5px, rgba(240, 240, 46, 0.3) 0px 10px, rgba(240, 179, 46, 0.2) 0px 15px, rgba(227, 240, 46, 0.1) 0px 20px, rgba(46, 240, 62, 0.05) 0px 25px;
+}
+
+.social-handles {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 10px 10px 7px 10px;
+    border-radius: 10px;
+}
+
+/* meidum screens */
+@media all and (min-width: 768px) and (max-width: 1024px) {
+    #cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    #top>img {
+        width: 30%;
+    }
+}
+
+/* small screens */
+@media all and (min-width: 320px) and (max-width: 767px) {
+    .container {
+        width: 90%;
+    }
+
+    #social {
+        flex-direction: column;
+    }
+    #social>a {
+    margin: 10% auto;        
+    }
+    #cards {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    #top>img {
+        width: 50%;
+    }
+}
