@@ -12,7 +12,7 @@
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=instagram&message= &style=flat&logo=instagram&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://github.com/ManishParashar0/ManishParashar0.git">
+     <a href="">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
