@@ -48,7 +48,7 @@
 
 - 📄 Know about my experiences
 
-- 📄  My Resume :   [Manish parashar resume](https://docs.google.com/document/d/1ptXt75zbdGe-CTEL3sSEe0bzHI1oHplT/edit?usp=drive_link&ouid=112338246230620760876&rtpof=true&sd=true)
+- 📄  My Resume :   [Manish parashar resume](------------------------)
 <br /> <br />
 <br /> <br />
 
