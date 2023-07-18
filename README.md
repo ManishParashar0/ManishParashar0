@@ -48,7 +48,7 @@
 
 - 📄 Know about my experiences
 
-- 📄  My Resume :   [Manish parashar resume](------------------------)
+- 📄  My Resume :   [Manish parashar resume]()
 <br /> <br />
 <br /> <br />
 
