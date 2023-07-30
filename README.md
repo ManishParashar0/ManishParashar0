@@ -167,8 +167,6 @@
     alt="Git" />
 
 <br />
-
-
 <!-- deivder -->
 <br />
   
