@@ -159,6 +159,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manishparashar0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="right" width=200px height=250px alt="side_sticker"
+  src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
