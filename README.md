@@ -61,8 +61,6 @@
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
 
-<br />
-
 <!-- deivder -->
 
 
@@ -155,6 +153,16 @@
       </span>
       </a>
   </p>
+  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=manishparashar0&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manishparashar0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <br />
 <br />
 <br />
