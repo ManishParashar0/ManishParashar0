@@ -13,6 +13,10 @@
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://manishparashar0.github.io/ManishParashar0/">
+      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=Project&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+         </a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://manishparashar0.github.io/Portfolio.manish/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
