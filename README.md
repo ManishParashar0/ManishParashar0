@@ -48,7 +48,7 @@
  
 - 📄 Know about my experiences [PORTFOLIO](https://manishparashar0.github.io/Portfolio.manish/)
 
-- 📄  My Resume :   [Manish parashar resume]()
+- 📄  My Resume :   [Manish parashar resume](https://drive.google.com/file/d/1PkLyyEMcuLMoVaim9uo71s_INc_Rc73k/view?usp=sharing)
 <br /> <br />
 <br /> <br />
 
