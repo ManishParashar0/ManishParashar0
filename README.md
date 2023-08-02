@@ -141,7 +141,6 @@
 <!-- deivder -->
   <br />
 
-  
   <p>
     <a href="https://github.com/manishparashar0">
     <span>
