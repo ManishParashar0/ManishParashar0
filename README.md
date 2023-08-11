@@ -28,7 +28,6 @@
     <br>
       </span>
       <span>
-          <--this image work
     <img align="right" width="120px" src="https://komarev.com/ghpvc/?username=manishparashar0&label=Profile%20views&color=939B62&style=flat" alt="manishparashar" />
       </span>
       <br>
