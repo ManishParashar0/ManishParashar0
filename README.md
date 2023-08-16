@@ -186,7 +186,7 @@
         <img align="center"
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishparashar0&theme=github_dark" width="100%" />
       </span></a>
-  </p>
+  </p> 
   <br />
   
   
