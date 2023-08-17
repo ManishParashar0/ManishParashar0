@@ -1,5 +1,5 @@
 <h2 align="center"></h2> 
-    <img src="./giphy.gif"/> 
+    <img src="./giphy.gif"/>  
     <br/><br/>   
     <div align="center">  
     <a href="https://www.linkedin.com/in/manish-parashar-3b119a243">
