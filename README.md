@@ -1,4 +1,4 @@
-<h2 align="center"></h2>
+<h2 align="center"></h2> 
     <img src="./giphy.gif"/> 
     <br/><br/>   
     <div align="center">  
