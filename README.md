@@ -7,7 +7,7 @@
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://youtube.com/@manishparashar4935">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=youtube&message= &style=flat&logo=youtube&logoColor=939B62&labelColor=black">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="https://instagram.com/manish_parashar__?igshid=MzNlNGNkZWQ4Mg==">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=instagram&message= &style=flat&logo=instagram&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
