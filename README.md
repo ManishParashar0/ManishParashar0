@@ -1,7 +1,7 @@
 <h2 align="center"></h2> 
     <img src="./giphy.gif"/>  
     <br/><br/>   
-    <div align="center">   
+    <div align="center">      
     <a href="https://www.linkedin.com/in/manish-parashar-3b119a243">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=LinkedIn&message= &style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
